@@ -7,7 +7,7 @@ BestChip (BC) is a significant corporation that produces low-fat snacks. The com
 
 The file "informe.pdf" includes all relevant information about the problem, the proposal, and the solution, along with detailed explanations of each equation used. The file "proyecto.xlsx" contains the formulas used in Excel.
 
-
+The details of this project are in [Medium](https://medium.com/@garzonmargy/optimization-problem-expansion-strategy-e1f89b020fa5)
 
 ## Authors
 
